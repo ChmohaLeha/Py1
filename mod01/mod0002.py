@@ -1,0 +1,8 @@
+command = input("Suorakulmion kanta: ")
+command2 = input("Suorakulmion korkeus: ")
+command3 = float(command)
+command4 = float(command2)
+pintala = (command3) * (command4)
+piiri = ((command3) * 2) + ((command4) *2)
+print("Pinta-ala " + str(pintala))
+print("Piiri " + str(piiri))
