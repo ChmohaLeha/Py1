@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6af6f6-92c5-461b-bf73-8cc838be95e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9e6af6f6-92c5-461b-bf73-8cc838be95e9" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/mod03/mod03.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod03/mod3.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod03/mod3.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod03/mod3.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/mod4.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/mod4.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/mod4.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/mod4.04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/mod4.05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01/arpo.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod01/arpo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01/grammathv.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod01/grammathv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,24 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ChmohaLeha"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ChmohaLeha&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/ChmohaLeha/Py1.git",
-    "accountId": "411e7769-b0d8-4749-ad63-1a7ed5254759"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChmohaLeha/Py1.git&quot;,
+    &quot;accountId&quot;: &quot;411e7769-b0d8-4749-ad63-1a7ed5254759&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2l0T3pODcMN6ENnLVR7QbyM3SvU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,8 +52,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.arpo.executor": "Run",
+    "Python.grammathv.executor": "Run",
+    "Python.mod03.4.executor": "Run",
+    "Python.mod3.01.executor": "Run",
+    "Python.mod3.02.executor": "Run",
+    "Python.mod3.03.executor": "Run",
+    "Python.mod4.01.executor": "Run",
+    "Python.mod4.02.executor": "Run",
+    "Python.mod4.03.executor": "Run",
+    "Python.mod4.04.executor": "Run",
+    "Python.mod4.05.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Koodit/Py1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +75,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Koodit\Py1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Koodit\Py1\mod03" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,11 +99,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724315797616</updated>
-      <workItem from="1724315799139" duration="671000" />
+      <workItem from="1724315799139" duration="1117000" />
+      <workItem from="1724316938462" duration="1703000" />
+      <workItem from="1724438244975" duration="105000" />
+      <workItem from="1724597727346" duration="814000" />
+      <workItem from="1724667445422" duration="21658000" />
     </task>
+    <task id="LOCAL−00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1724316770684</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1724316770684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Py1$mod03_4.coverage" NAME="mod03.4 Coverage Results" MODIFIED="1724740946101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_01.coverage" NAME="mod4.01 Coverage Results" MODIFIED="1724747201893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_03.coverage" NAME="mod3.03 Coverage Results" MODIFIED="1724671687469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
+    <SUITE FILE_PATH="coverage/Py1$arpo.coverage" NAME="arpo Coverage Results" MODIFIED="1724598146235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_03.coverage" NAME="mod4.03 Coverage Results" MODIFIED="1724755575435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$grammathv.coverage" NAME="grammathv Coverage Results" MODIFIED="1724598109889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_05.coverage" NAME="mod4.05 Coverage Results" MODIFIED="1724768751766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_02.coverage" NAME="mod3.02 Coverage Results" MODIFIED="1724671007821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_02.coverage" NAME="mod4.02 Coverage Results" MODIFIED="1724753355846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_01.coverage" NAME="mod3.01 Coverage Results" MODIFIED="1724669786098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_04.coverage" NAME="mod4.04 Coverage Results" MODIFIED="1724763716179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
   </component>
 </project>
