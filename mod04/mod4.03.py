@@ -1,10 +1,15 @@
+num = []
 while True:
-    luku = int(input("Syötä luku: ")) or input("Syötä numero: ")
-    if luku != 0:
-        print(f"Lukusi on: {luku}")
-    elif luku == "":
-        print("Haista vittu")
+    x = (input("Syötä luku: "))
+    if x == "":
         break
+
+    num.append(float(x))
+
+if num:
+    print("Suurin luku on: ", max(num))
+    print("Pienin luku on: ", min(num))
+
 
 
 
