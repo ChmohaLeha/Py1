@@ -10,6 +10,7 @@ while rep <5:
         command = input("Käyttäjätunnus: ")
         command2 = input("Salasana: ")
         rep = rep + 1
+print("Pääsy evätty")
 
 
 
