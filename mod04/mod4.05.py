@@ -1,7 +1,7 @@
 command = input("Käyttäjätunnus: ")
 command2 = input("Salasana: ")
 rep = 0
-while rep <5:
+while rep <4:
     if command == "python" and command2 == "rules":
         print("Tervetuloa")
         break
