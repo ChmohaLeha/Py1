@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e6af6f6-92c5-461b-bf73-8cc838be95e9" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/mod05/mod5.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod05/mod5.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod05/mod5.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod05/mod5.04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,37 +38,45 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2l0T3pODcMN6ENnLVR7QbyM3SvU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.arpo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grammathv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod03.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod3.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod3.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod3.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mod4.06.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Koodit/Py1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arpo.executor": "Run",
+    "Python.grammathv.executor": "Run",
+    "Python.mod0002.executor": "Run",
+    "Python.mod002.executor": "Run",
+    "Python.mod03.4.executor": "Run",
+    "Python.mod3.01.executor": "Run",
+    "Python.mod3.02.executor": "Run",
+    "Python.mod3.03.executor": "Run",
+    "Python.mod4.01.executor": "Run",
+    "Python.mod4.02.executor": "Run",
+    "Python.mod4.03.executor": "Run",
+    "Python.mod4.04.executor": "Run",
+    "Python.mod4.05.executor": "Run",
+    "Python.mod4.06.executor": "Run",
+    "Python.mod5.01.executor": "Run",
+    "Python.mod5.02.executor": "Run",
+    "Python.mod5.03.executor": "Run",
+    "Python.mod5.04.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Koodit/Py1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Koodit\Py1" />
@@ -99,6 +111,12 @@
       <workItem from="1724916650719" duration="413000" />
       <workItem from="1724917076161" duration="1042000" />
       <workItem from="1724923968157" duration="69000" />
+      <workItem from="1724924284338" duration="650000" />
+      <workItem from="1725124047435" duration="365000" />
+      <workItem from="1725265372365" duration="5316000" />
+      <workItem from="1725343481629" duration="4532000" />
+      <workItem from="1725452013480" duration="4027000" />
+      <workItem from="1725456088691" duration="223000" />
     </task>
     <task id="LOCAL−00001" summary="update">
       <option name="closed" value="true" />
@@ -128,7 +146,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1724917094674</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1724924923759</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1724924923759</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,17 +164,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py1$mod03_4.coverage" NAME="mod03.4 Coverage Results" MODIFIED="1724740946101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
-    <SUITE FILE_PATH="coverage/Py1$mod3_03.coverage" NAME="mod3.03 Coverage Results" MODIFIED="1724671687469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
-    <SUITE FILE_PATH="coverage/Py1$mod4_03.coverage" NAME="mod4.03 Coverage Results" MODIFIED="1724915913180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod03_4.coverage" NAME="mod03.4 Coverage Results" MODIFIED="1725124208805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_03.coverage" NAME="mod3.03 Coverage Results" MODIFIED="1725124192891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_03.coverage" NAME="mod4.03 Coverage Results" MODIFIED="1725124293616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
     <SUITE FILE_PATH="coverage/Py1$grammathv.coverage" NAME="grammathv Coverage Results" MODIFIED="1724598109889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
-    <SUITE FILE_PATH="coverage/Py1$mod4_05.coverage" NAME="mod4.05 Coverage Results" MODIFIED="1724918771997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
-    <SUITE FILE_PATH="coverage/Py1$mod3_01.coverage" NAME="mod3.01 Coverage Results" MODIFIED="1724669786098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
-    <SUITE FILE_PATH="coverage/Py1$mod4_04.coverage" NAME="mod4.04 Coverage Results" MODIFIED="1724915938909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
-    <SUITE FILE_PATH="coverage/Py1$mod4_01.coverage" NAME="mod4.01 Coverage Results" MODIFIED="1724747201893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod002.coverage" NAME="mod002 Coverage Results" MODIFIED="1725124069025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_05.coverage" NAME="mod4.05 Coverage Results" MODIFIED="1725124357957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod5_03.coverage" NAME="mod5.03 Coverage Results" MODIFIED="1725456243097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod05" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_01.coverage" NAME="mod3.01 Coverage Results" MODIFIED="1725124139041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_04.coverage" NAME="mod4.04 Coverage Results" MODIFIED="1725124317166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod5_04.coverage" NAME="mod5.04 Coverage Results" MODIFIED="1725516769085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod05" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_01.coverage" NAME="mod4.01 Coverage Results" MODIFIED="1725124229439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod5_01.coverage" NAME="mod5.01 Coverage Results" MODIFIED="1725454111326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod05" />
     <SUITE FILE_PATH="coverage/Py1$arpo.coverage" NAME="arpo Coverage Results" MODIFIED="1724598146235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
-    <SUITE FILE_PATH="coverage/Py1$mod3_02.coverage" NAME="mod3.02 Coverage Results" MODIFIED="1724671007821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod02" />
-    <SUITE FILE_PATH="coverage/Py1$mod4_02.coverage" NAME="mod4.02 Coverage Results" MODIFIED="1724915905533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod3_02.coverage" NAME="mod3.02 Coverage Results" MODIFIED="1725124173446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
+    <SUITE FILE_PATH="coverage/Py1$mod4_02.coverage" NAME="mod4.02 Coverage Results" MODIFIED="1725124249255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod5_02.coverage" NAME="mod5.02 Coverage Results" MODIFIED="1725455697940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod05" />
     <SUITE FILE_PATH="coverage/Py1$mod4_06.coverage" NAME="mod4.06 Coverage Results" MODIFIED="1724915975232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
+    <SUITE FILE_PATH="coverage/Py1$mod0002.coverage" NAME="mod0002 Coverage Results" MODIFIED="1725124081828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
   </component>
 </project>
