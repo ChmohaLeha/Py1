@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e6af6f6-92c5-461b-bf73-8cc838be95e9" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/mod07/mod7.01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod07/mod7.02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod07/mod7.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod08/mod8.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod08/mod8.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod08/mod8.03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,8 @@
     "Python.mod7.01.executor": "Run",
     "Python.mod7.02.executor": "Run",
     "Python.mod7.03.executor": "Run",
+    "Python.mod8.01.executor": "Run",
+    "Python.mod8.02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Koodit/Py1",
@@ -128,7 +130,11 @@
       <workItem from="1725622456146" duration="5760000" />
       <workItem from="1725714072931" duration="1374000" />
       <workItem from="1725715629519" duration="95000" />
-      <workItem from="1725878454373" duration="11072000" />
+      <workItem from="1725878454373" duration="11547000" />
+      <workItem from="1725978750280" duration="191000" />
+      <workItem from="1725978955874" duration="1069000" />
+      <workItem from="1726122645776" duration="3438000" />
+      <workItem from="1726429255951" duration="915000" />
     </task>
     <task id="LOCAL−00001" summary="update">
       <option name="closed" value="true" />
@@ -179,11 +185,29 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1725715513668</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1725978715633</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1725978715633</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
@@ -204,11 +228,13 @@
     <SUITE FILE_PATH="coverage/Py1$mod4_01.coverage" NAME="mod4.01 Coverage Results" MODIFIED="1725520477388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
     <SUITE FILE_PATH="coverage/Py1$arpo.coverage" NAME="arpo Coverage Results" MODIFIED="1724598146235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
     <SUITE FILE_PATH="coverage/Py1$mod6_04.coverage" NAME="mod6.04 Coverage Results" MODIFIED="1725645814315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod06" />
+    <SUITE FILE_PATH="coverage/Py1$mod8_01.coverage" NAME="mod8.01 Coverage Results" MODIFIED="1726429658284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod08" />
     <SUITE FILE_PATH="coverage/Py1$mod6_01.coverage" NAME="mod6.01 Coverage Results" MODIFIED="1725536792130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod06" />
-    <SUITE FILE_PATH="coverage/Py1$mod7_01.coverage" NAME="mod7.01 Coverage Results" MODIFIED="1725879113652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod07" />
+    <SUITE FILE_PATH="coverage/Py1$mod7_01.coverage" NAME="mod7.01 Coverage Results" MODIFIED="1725979521851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod07" />
     <SUITE FILE_PATH="coverage/Py1$mod4_06.coverage" NAME="mod4.06 Coverage Results" MODIFIED="1724915975232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
     <SUITE FILE_PATH="coverage/Py1$mod0002.coverage" NAME="mod0002 Coverage Results" MODIFIED="1725124081828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod01" />
     <SUITE FILE_PATH="coverage/Py1$mod7_02.coverage" NAME="mod7.02 Coverage Results" MODIFIED="1725962931239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod07" />
+    <SUITE FILE_PATH="coverage/Py1$mod8_02.coverage" NAME="mod8.02 Coverage Results" MODIFIED="1726430149432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod08" />
     <SUITE FILE_PATH="coverage/Py1$mod6_02.coverage" NAME="mod6.02 Coverage Results" MODIFIED="1725641098818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod06" />
     <SUITE FILE_PATH="coverage/Py1$mod4_05.coverage" NAME="mod4.05 Coverage Results" MODIFIED="1725124357957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04" />
     <SUITE FILE_PATH="coverage/Py1$mod3_01.coverage" NAME="mod3.01 Coverage Results" MODIFIED="1725124139041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod03" />
